@@ -1,0 +1,170 @@
+/* u- defines user_file*/
+
+body{
+	background:url(office-lighting-166q.jpg) no-repeat;
+	background-position: fixed;
+	background-size: 1366px;
+	padding:0px;
+	margin:0px;
+}
+li{
+	
+	margin-left: 15px;
+	font-size: 15px;
+}
+
+#black-transparent{
+	margin-top: 108px;
+	background-color: black;
+	opacity: 0.7;
+}
+.u-container-s{
+	 padding-right: 200px;
+ 	 padding-left: 200px;
+	 margin-right: auto;
+ 	 margin-left: auto;
+}
+#img-center{
+	margin-top: 200px;
+	padding:0px;
+    color: white;
+    text-align:center;
+    font-family:Arial;
+    font-weight: bold;
+}
+.Get_aap_btn{
+	background-color: #222222;
+    border: 1px;
+    color: white;
+    text-align: center;
+}
+#img-bottem{
+	text-align:center;
+    color: white;
+    font-family:Roboto;
+}
+#courses{
+	margin-top: 50px;
+}
+#test_series{
+	border-left:1px solid grey;
+	margin-top: 50px;
+}
+.courses1{
+	font-size: 15px;
+	color: #808080;
+	margin-left: 50px;
+	width: 20%;
+	float: left;
+	margin-top: 60px;
+	border: 20px;
+}
+#col4{
+	padding-top: 100px;
+	text-align: center;
+}
+.view{
+	float:right;
+	color: #A9A9A9;
+	font-size: 11px;
+}
+#vyaktitiva{
+	float: right;
+	color: #A9A9A9;
+	margin-top: 10px;
+}
+#practice{
+	background-color: #36b986;
+	vertical-align: center;
+	margin-top: 50px;
+	padding: 50px;
+}
+#practicetext{
+	text-align: left;
+	vertical-align: middle;
+	color: #fff;
+}
+#slideshow{
+	height: 350px;
+
+}
+#slideshow_in_Mac{
+	position: absolute;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+#slideshow_content1{
+	height: 280px;
+	font-size: 25px;
+	color: #fff;
+	text-align: center;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 50px;
+}
+.u-btn{
+	border-radius: 15px;
+	padding: 5px;
+	padding-left:25px ;
+	padding-right: 25px;
+	background-color: #00CED1;
+	border:none;
+	margin: 5px;
+}
+.u-btn_t{
+	display: inline;
+	border:none;
+	border-radius: 10px;
+	margin-left: 5px;
+}
+.test_line{
+	color: #00CED1;
+
+}
+.t_line{
+	color: #A9A9A9;
+}
+.img-hidden{
+	width: 100%;
+	max-height:100%; 
+	max-width:100%; 
+    overflow:hidden; 
+}
+.side-bar{
+	height: 40px;
+	background-color: grey;
+	padding:10px;
+	color: white;
+	position: fixed;
+	transform: rotate(270deg);
+	left: -95px;
+	bottom: 100px;
+	border-radius: 0px 0px 20px 20px;
+}
+.u-btn-applink{
+	border: 1.5px solid white;
+	background-color:#36b986; 
+	color: #fff;
+}
+.u-container {
+	 padding-right: 50px;
+ 	 padding-left: 50px;
+	 margin-right: auto;
+ 	 margin-left: auto;
+}
+.row_footer{
+	text-align: center;
+}
+
+#u-footor{
+	margin-top: 50px;
+	border-top: 1px solid #A9A9A9;
+	font-weight: bold;
+	border-bottom: 1px solid #A9A9A9;
+}
+#l_footer{
+	margin-top: 30px;
+}
+#fb{
+
+}
